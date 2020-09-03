@@ -10,3 +10,6 @@ Excel is an ideal application for learning about statistics. Users can get under
 
 How do a thousand imaginary roulette throws demonstrate the most important theorem of data analysis? What is the “margin of error,” and why is it usually reported as 2-3%? We’ll use Excel to answer these questions and more. 
     
+### For more exercises like these, [subscribe for FREE access to my data education resource library](https://georgejmount.com/subscribe/).
+
+#### To host a presentation at your meetup or organization, or to get in touch, [drop me a line or set up a free call on Microsoft Bookings](https://georgejmount.com/contact/). 
