@@ -1,5 +1,7 @@
 # Learning Statistics in Excel
 
+![Event cover image](event-cover.png)
+
 Presentation to MS Excel Toronto meetup, September 2020
 
 Those interested in data science and analytics may rush toward learning a statistical programming language. These tools are important, but understanding the statistical principles at play are even more critical. 
