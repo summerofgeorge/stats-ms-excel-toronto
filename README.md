@@ -4,9 +4,7 @@
 
 ## Presentation to MS Excel Toronto meetup, September 2020
 
-View a recording below
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/6GNEedN2dWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+[View a recording of the presentation on YouTube.](https://youtu.be/6GNEedN2dWg) 
 
 Those interested in data science and analytics may rush toward learning a statistical programming language. These tools are important, but understanding the statistical principles at play are even more critical. 
 
